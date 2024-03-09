@@ -1,3 +1,5 @@
 #!/bin/bash
 
-python3 src/my_program.py
+minombre="Alex"
+
+python3 src/my_program.py "$minombre"
